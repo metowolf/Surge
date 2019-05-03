@@ -1,0 +1,269 @@
+# 360
+DOMAIN-SUFFIX, qhimg.com
+DOMAIN-SUFFIX, qihucdn.com
+DOMAIN-SUFFIX, 360.com
+DOMAIN-SUFFIX, baomitu.com
+DOMAIN-SUFFIX, qhres.com
+DOMAIN-SUFFIX, so.com
+
+# 4399
+DOMAIN-SUFFIX, 4399.com
+DOMAIN-SUFFIX, 5054399.com
+DOMAIN-SUFFIX, img4399.com
+
+# CSDN
+DOMAIN-SUFFIX, csdn.net
+
+# PandaTV
+DOMAIN-SUFFIX, panda.tv
+DOMAIN-SUFFIX, pdim.gs
+DOMAIN-SUFFIX, xiongmaoxingyan.com
+
+# bilibili
+DOMAIN-SUFFIX, bilibili.com
+DOMAIN-SUFFIX, biligame.com
+DOMAIN-SUFFIX, biligame.net
+DOMAIN-SUFFIX, hdslb.com
+DOMAIN-SUFFIX, biliapi.com
+DOMAIN-SUFFIX, acgvideo.com
+
+# 七牛云
+DOMAIN-SUFFIX, qiniu.com
+DOMAIN-SUFFIX, qiniucdn.com
+DOMAIN-SUFFIX, qnssl.com
+DOMAIN-SUFFIX, qbox.me
+DOMAIN-SUFFIX, cloudvdn.com
+
+# 中国电信
+DOMAIN-SUFFIX, 21cn.com
+
+# 京东
+DOMAIN-SUFFIX, jd.com
+DOMAIN-SUFFIX, jdpay.com
+DOMAIN-SUFFIX, 360buyimg.com
+DOMAIN-SUFFIX, jcloudcache.com
+DOMAIN-SUFFIX, joybuy.com
+DOMAIN-SUFFIX, jcloudcs.com
+DOMAIN-SUFFIX, jdcloud.com
+USER-AGENT, %E4%BA%AC%E4%B8%9C*
+USER-AGENT, JD4iPhone*
+
+# 优酷
+DOMAIN-SUFFIX, youku.com
+DOMAIN-SUFFIX, ykimg.com
+DOMAIN-SUFFIX, soku.com
+
+# 全民直播
+DOMAIN-SUFFIX, quanmin.tv
+DOMAIN-SUFFIX, qmtv.com
+DOMAIN-SUFFIX, shouyintv.cn
+
+# 凤凰网
+DOMAIN-SUFFIX, ifeng.com
+DOMAIN-SUFFIX, ifengimg.com
+
+# 又拍云
+DOMAIN-SUFFIX, upyun.com
+DOMAIN-SUFFIX, aicdn.com
+DOMAIN-SUFFIX, upcdn.net
+
+# 友盟
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, umsns.com
+
+# 图床
+DOMAIN-SUFFIX, ooo.0o0.ooo
+DOMAIN-SUFFIX, loli.net
+DOMAIN-SUFFIX, i.v2ex.co
+
+# 大众点评
+DOMAIN-SUFFIX, dianping.com
+DOMAIN-SUFFIX, dpfile.com
+
+# 天涯
+DOMAIN-SUFFIX, tianyaui.com
+
+# 字节跳动（今日头条、抖音、西瓜）
+DOMAIN-SUFFIX, toutiao.com
+DOMAIN-SUFFIX, pstatp.com
+DOMAIN-SUFFIX, douyin.com
+DOMAIN-SUFFIX, ixigua.com
+DOMAIN-SUFFIX, aweme.snssdk.com
+DOMAIN-SUFFIX, iesdouyin.com
+DOMAIN-SUFFIX, amemv.com
+
+# 小米
+DOMAIN-SUFFIX, mi.com
+DOMAIN-SUFFIX, xiaomi.com
+DOMAIN-SUFFIX, mi-img.com
+DOMAIN-SUFFIX, miui.com
+DOMAIN-SUFFIX, xiaomi.net
+DOMAIN-SUFFIX, mi-idc.com
+DOMAIN-SUFFIX, appmifile.com
+DOMAIN-SUFFIX, mipay.com
+DOMAIN-SUFFIX, duokan.com
+
+# 小红书
+DOMAIN-SUFFIX, xiaohongshu.com
+
+# 微软
+DOMAIN-SUFFIX, microsoft.com
+DOMAIN-SUFFIX, live.com
+DOMAIN-SUFFIX, office.net
+DOMAIN-SUFFIX, outlook.com
+DOMAIN-SUFFIX, microsoftonline.com
+DOMAIN-SUFFIX, bing.com
+DOMAIN-SUFFIX, bing.net
+
+# 拼多多
+DOMAIN-SUFFIX, pinduoduo.com
+DOMAIN-SUFFIX, yangkeduo.com
+
+# 搜狐
+DOMAIN-SUFFIX, sohu.com
+DOMAIN-SUFFIX, sohucs.com
+DOMAIN-SUFFIX, sogou.com
+DOMAIN-SUFFIX, sogoucdn.com
+
+# 斗鱼
+DOMAIN-SUFFIX, douyu.com
+
+# 新华网
+DOMAIN-SUFFIX, xinhuanet.com
+
+# 新浪
+DOMAIN-SUFFIX, weibo.com
+DOMAIN-SUFFIX, sina.com
+DOMAIN-SUFFIX, sinaapp.com
+DOMAIN-SUFFIX, miaopai.com
+
+# 淘宝
+DOMAIN-SUFFIX, taobao.com
+DOMAIN-SUFFIX, tmall.com
+USER-AGENT, %E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
+
+# 爱奇异
+DOMAIN-SUFFIX, iqiyi.com
+DOMAIN-SUFFIX, iqiyipic.com
+DOMAIN-SUFFIX, qy.net
+DOMAIN-SUFFIX, ptqy.gitv.tv
+DOMAIN-SUFFIX, qiyi.com
+
+# 百度
+DOMAIN-SUFFIX, baidu.com
+DOMAIN-SUFFIX, baiducontent.com
+DOMAIN-SUFFIX, baidupcs.com
+DOMAIN-SUFFIX, baiduimg.com
+DOMAIN-SUFFIX, bdstatic.com
+DOMAIN-SUFFIX, qianqian.com
+DOMAIN-SUFFIX, taihe.com
+DOMAIN-SUFFIX, hao123.com
+DOMAIN-SUFFIX, bdimg.com
+DOMAIN-SUFFIX, nuomi.com
+DOMAIN-SUFFIX, baifubao.com
+
+# 知乎
+DOMAIN-SUFFIX, zhihu.com
+DOMAIN-SUFFIX, zhimg.com
+
+# 网宿科技
+DOMAIN-SUFFIX, ourdvsss.com
+DOMAIN-SUFFIX, lxdns.com
+DOMAIN-SUFFIX, wscdns.com
+DOMAIN-SUFFIX, 8686c.com
+
+# 网易
+DOMAIN-SUFFIX, 163.com
+DOMAIN-SUFFIX, 126.net
+DOMAIN-SUFFIX, 127.net
+DOMAIN-SUFFIX, 163yun.com
+DOMAIN-SUFFIX, netease.com
+DOMAIN-SUFFIX, kaola.com
+
+# 网易云音乐
+USER-AGENT, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+USER-AGENT, NeteaseMusic*
+
+# 美团
+DOMAIN-SUFFIX, meituan.com
+DOMAIN-SUFFIX, meituan.net
+
+# 腾讯
+DOMAIN-SUFFIX, qq.com
+DOMAIN-SUFFIX, tencent.com
+DOMAIN-SUFFIX, qcloud.com
+DOMAIN-SUFFIX, weiyun.com
+DOMAIN-SUFFIX, gtimg.com
+DOMAIN-SUFFIX, qcloudimg.com
+DOMAIN-SUFFIX, myqcloud.com
+DOMAIN-SUFFIX, qqmail.com
+DOMAIN-SUFFIX, wechat.com
+DOMAIN-SUFFIX, qiecdn.com
+DOMAIN-SUFFIX, v.smtcdns.net
+DOMAIN-SUFFIX, myapp.com
+USER-AGENT, QQ*
+USER-AGENT, *QQMusic*
+USER-AGENT, WeChat*
+USER-AGENT, MicroMessenger*
+
+# 芒果TV
+DOMAIN-SUFFIX, mgtv.com
+DOMAIN-SUFFIX, hitv.com
+
+# 虎扑
+DOMAIN-SUFFIX, hupu.com
+DOMAIN-SUFFIX, hupucdn.com
+
+# 虎牙
+DOMAIN-SUFFIX, huya.com
+
+# 虾米
+DOMAIN-SUFFIX, xiami.com
+DOMAIN-SUFFIX, xiami.net
+
+# 豆瓣
+DOMAIN-SUFFIX, douban.com
+DOMAIN-SUFFIX, doubanio.com
+DOMAIN-SUFFIX, douban.fm
+
+# 起点
+DOMAIN-SUFFIX, qidian.com
+DOMAIN-SUFFIX, yuewen.com
+
+# 迅雷
+DOMAIN-SUFFIX, xunlei.com
+DOMAIN-SUFFIX, xycdn.com
+DOMAIN-SUFFIX, sandai.net
+
+# 酷狗
+DOMAIN-SUFFIX, kugou.com
+DOMAIN-SUFFIX, kgimg.com
+
+# 铁血
+DOMAIN-SUFFIX, tiexue.net
+
+# 阿里巴巴
+DOMAIN-SUFFIX, aliyun.com
+DOMAIN-SUFFIX, aliyuncs.com
+DOMAIN-SUFFIX, alicdn.com
+DOMAIN-SUFFIX, alimama.com
+DOMAIN-SUFFIX, alibaba.com
+DOMAIN-SUFFIX, alipay.com
+DOMAIN-SUFFIX, alipayobjects.com
+DOMAIN-SUFFIX, alisports.com
+DOMAIN-SUFFIX, aliapp.org
+DOMAIN-SUFFIX, mmstat.com
+DOMAIN-SUFFIX, aliyun-inc.com
+
+# 青云
+DOMAIN-SUFFIX, qingstor.com
+
+# 饿了么
+DOMAIN-SUFFIX, ele.me
+DOMAIN-SUFFIX, elemecdn.com
+
+# 高德
+DOMAIN-SUFFIX, amap.com
+DOMAIN-SUFFIX, autonavi.com
+
+DOMAIN-SUFFIX, cn

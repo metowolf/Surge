@@ -1,0 +1,129 @@
+# BBC
+USER-AGENT, BBCiPlayer*
+DOMAIN-KEYWORD, uk-live
+DOMAIN-SUFFIX, bbc.co.uk
+DOMAIN-SUFFIX, bbci.co.uk
+DOMAIN-SUFFIX, bbc.co
+DOMAIN-SUFFIX, bbc.com
+
+# Blizzard
+USER-AGENT, Blizzard*
+USER-AGENT, wowcompanion*
+DOMAIN-SUFFIX, battle.net
+DOMAIN-SUFFIX, battlenet.com
+DOMAIN-SUFFIX, blizzard.com
+
+# Box
+DOMAIN-SUFFIX, box.com
+DOMAIN-SUFFIX, box.net
+
+# DigitalOcean
+DOMAIN-SUFFIX, digitalocean.com
+
+# Discord
+DOMAIN-SUFFIX, discordapp.com
+DOMAIN-SUFFIX, discordapp.net
+DOMAIN-SUFFIX, discord.gg
+
+# Disqus
+DOMAIN-SUFFIX, disqus.com
+
+# Dropbox
+PROCESS-NAME, Dropbox
+DOMAIN-SUFFIX, dropbox.com
+DOMAIN-SUFFIX, dropboxusercontent.com
+DOMAIN-SUFFIX, dropboxstatic.com
+
+# DuckDuckGo
+DOMAIN-SUFFIX, proxy.duckduckgo.com
+
+# Facebook
+DOMAIN-KEYWORD, facebook
+DOMAIN-SUFFIX, fb.com
+DOMAIN-SUFFIX, fb.me
+DOMAIN-SUFFIX, fbcdn.net
+
+# Github
+DOMAIN-SUFFIX, github.com
+DOMAIN-SUFFIX, githubusercontent.com
+
+# Google
+PROCESS-NAME, Backup and Sync
+DOMAIN-KEYWORD, gmail
+DOMAIN-KEYWORD, google
+DOMAIN-KEYWORD, blogspot
+DOMAIN-SUFFIX, gstatic.com
+DOMAIN-SUFFIX, blogger.com
+DOMAIN-SUFFIX, gvt0.com
+DOMAIN-SUFFIX, gvt1.com
+DOMAIN-SUFFIX, gvt2.com
+DOMAIN-SUFFIX, gvt3.com
+DOMAIN-SUFFIX, goo.gl
+
+# Imgur
+DOMAIN-SUFFIX, imgur.com
+
+# Instagram
+DOMAIN-SUFFIX, instagram.com
+DOMAIN-SUFFIX, cdninstagram.com
+
+# PornHub
+DOMAIN-SUFFIX, pubnub.com
+
+# Spotify
+PROCESS-NAME, Spotify
+DOMAIN-SUFFIX, scdn.co
+
+# Steam
+DOMAIN-SUFFIX, fanatical.com
+DOMAIN-SUFFIX, steamcommunity.com
+DOMAIN-SUFFIX, steamcontent.com
+DOMAIN-SUFFIX, steampowered.com
+DOMAIN-SUFFIX, steamstatic.com
+
+# Telegram
+DOMAIN-KEYWORD, telegram
+DOMAIN-SUFFIX, t.me
+IP-CIDR, 91.108.4.0/22, no-resolve
+IP-CIDR, 91.108.8.0/22, no-resolve
+IP-CIDR, 91.108.12.0/22, no-resolve
+IP-CIDR, 91.108.16.0/22, no-resolve
+IP-CIDR, 91.108.56.0/22, no-resolve
+IP-CIDR, 109.239.140.0/24, no-resolve
+IP-CIDR, 149.154.160.0/20, no-resolve
+IP-CIDR, 149.154.164.0/22, no-resolve
+IP-CIDR, 149.154.168.0/22, no-resolve
+IP-CIDR, 149.154.172.0/22, no-resolve
+
+# Twitter
+PROCESS-NAME, Twitter
+PROCESS-NAME, Twitterrific
+PROCESS-NAME, Tweetbot
+DOMAIN-KEYWORD, twitter
+DOMAIN-SUFFIX, t.co
+DOMAIN-SUFFIX, twimg.co
+DOMAIN-SUFFIX, twimg.com
+DOMAIN-SUFFIX, twitpic.com
+
+# Vultr
+DOMAIN-SUFFIX, vultr.com
+
+# WhatsApp
+DOMAIN-KEYWORD, whatsapp
+USER-AGENT, WhatsApp*
+
+# WikiPedia
+DOMAIN-SUFFIX, wikipedia.org
+DOMAIN-SUFFIX, wikimedia.org
+
+# YouTube
+DOMAIN-KEYWORD, youtube
+DOMAIN-SUFFIX, youtu.be
+DOMAIN-SUFFIX, ytimg.com
+DOMAIN-SUFFIX, ggpht.com
+
+# telegraph
+DOMAIN-SUFFIX, telegra.ph
+
+# twitch
+DOMAIN-SUFFIX, twitch.tv

@@ -1,0 +1,28 @@
+# 迅雷
+PROCESS-NAME, Thunder
+PROCESS-NAME, com.xunlei.Thunder.DownloadService
+
+# Web Torrent
+PROCESS-NAME, WebTorrent
+PROCESS-NAME, WebTorrent Helper
+
+# Aria2GUI
+PROCESS-NAME, aria2c
+
+# Free Download Manager
+PROCESS-NAME, fdm
+
+# Folx
+PROCESS-NAME, Folx
+
+# NetTransport
+PROCESS-NAME, NetTransport
+
+# YYeTs
+PROCESS-NAME, p4pclient
+
+# Transmission
+PROCESS-NAME, Transmission
+
+# uTorrent
+PROCESS-NAME, uTorrent
