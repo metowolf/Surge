@@ -1,0 +1,18 @@
+# HBO
+DOMAIN-SUFFIX, hbo.com
+DOMAIN-SUFFIX, hbogo.com
+
+# Netflix
+DOMAIN-SUFFIX, netflix.com
+DOMAIN-SUFFIX, netflix.net
+DOMAIN-SUFFIX, nflxext.com
+DOMAIN-SUFFIX, nflximg.com
+DOMAIN-SUFFIX, nflximg.net
+DOMAIN-SUFFIX, nflxso.net
+DOMAIN-SUFFIX, nflxvideo.net
+
+# Spotify
+DOMAIN-SUFFIX, spotify.com
+DOMAIN-SUFFIX, pscdn.co
+DOMAIN-SUFFIX, scdn.co
+DOMAIN-SUFFIX, spoti.fi
