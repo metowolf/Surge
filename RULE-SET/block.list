@@ -38,27 +38,27 @@ DOMAIN-SUFFIX, dropboxstatic.com
 DOMAIN-SUFFIX, proxy.duckduckgo.com
 
 # Facebook
-DOMAIN-KEYWORD, facebook
-DOMAIN-SUFFIX, fb.com
-DOMAIN-SUFFIX, fb.me
-DOMAIN-SUFFIX, fbcdn.net
+DOMAIN-KEYWORD, facebook, force-remote-dns
+DOMAIN-SUFFIX, fb.com, force-remote-dns
+DOMAIN-SUFFIX, fb.me, force-remote-dns
+DOMAIN-SUFFIX, fbcdn.net, force-remote-dns
 
 # Github
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, githubusercontent.com
 
 # Google
-PROCESS-NAME, Backup and Sync
-DOMAIN-KEYWORD, gmail
-DOMAIN-KEYWORD, google
-DOMAIN-KEYWORD, blogspot
-DOMAIN-SUFFIX, gstatic.com
-DOMAIN-SUFFIX, blogger.com
-DOMAIN-SUFFIX, gvt0.com
-DOMAIN-SUFFIX, gvt1.com
-DOMAIN-SUFFIX, gvt2.com
-DOMAIN-SUFFIX, gvt3.com
-DOMAIN-SUFFIX, goo.gl
+PROCESS-NAME, Backup and Sync, force-remote-dns
+DOMAIN-KEYWORD, gmail, force-remote-dns
+DOMAIN-KEYWORD, google, force-remote-dns
+DOMAIN-KEYWORD, blogspot, force-remote-dns
+DOMAIN-SUFFIX, gstatic.com, force-remote-dns
+DOMAIN-SUFFIX, blogger.com, force-remote-dns
+DOMAIN-SUFFIX, gvt0.com, force-remote-dns
+DOMAIN-SUFFIX, gvt1.com, force-remote-dns
+DOMAIN-SUFFIX, gvt2.com, force-remote-dns
+DOMAIN-SUFFIX, gvt3.com, force-remote-dns
+DOMAIN-SUFFIX, goo.gl, force-remote-dns
 
 # Imgur
 DOMAIN-SUFFIX, imgur.com
@@ -66,6 +66,12 @@ DOMAIN-SUFFIX, imgur.com
 # Instagram
 DOMAIN-SUFFIX, instagram.com
 DOMAIN-SUFFIX, cdninstagram.com
+
+# Line
+DOMAIN-SUFFIX, line.me, force-remote-dns
+DOMAIN-SUFFIX, line-apps.com, force-remote-dns
+DOMAIN-SUFFIX, line-scdn.net, force-remote-dns
+DOMAIN-SUFFIX, naver.jp, force-remote-dns
 
 # PornHub
 DOMAIN-SUFFIX, pubnub.com
@@ -82,7 +88,8 @@ DOMAIN-SUFFIX, steampowered.com
 DOMAIN-SUFFIX, steamstatic.com
 
 # Telegram
-DOMAIN-KEYWORD, telegram
+DOMAIN-SUFFIX, telegram.org
+DOMAIN-SUFFIX, telesco.pe
 DOMAIN-SUFFIX, t.me
 IP-CIDR, 91.108.4.0/22, no-resolve
 IP-CIDR, 91.108.8.0/22, no-resolve
@@ -94,33 +101,33 @@ IP-CIDR, 149.154.160.0/20, no-resolve
 IP-CIDR, 149.154.164.0/22, no-resolve
 IP-CIDR, 149.154.168.0/22, no-resolve
 IP-CIDR, 149.154.172.0/22, no-resolve
+IP-CIDR6, 2001:67c:4e8::/48, no-resolve
+IP-CIDR6, 2001:b28:f23d::/48, no-resolve
+IP-CIDR6, 2001:b28:f23f::/48, no-resolve
 
 # Twitter
-PROCESS-NAME, Twitter
-PROCESS-NAME, Twitterrific
-PROCESS-NAME, Tweetbot
-DOMAIN-KEYWORD, twitter
-DOMAIN-SUFFIX, t.co
-DOMAIN-SUFFIX, twimg.co
-DOMAIN-SUFFIX, twimg.com
-DOMAIN-SUFFIX, twitpic.com
-
-# Vultr
-DOMAIN-SUFFIX, vultr.com
+PROCESS-NAME, Twitter, force-remote-dns
+PROCESS-NAME, Twitterrific, force-remote-dns
+PROCESS-NAME, Tweetbot, force-remote-dns
+DOMAIN-KEYWORD, twitter, force-remote-dns
+DOMAIN-SUFFIX, t.co, force-remote-dns
+DOMAIN-SUFFIX, twimg.co, force-remote-dns
+DOMAIN-SUFFIX, twimg.com, force-remote-dns
+DOMAIN-SUFFIX, twitpic.com, force-remote-dns
 
 # WhatsApp
 DOMAIN-KEYWORD, whatsapp
 USER-AGENT, WhatsApp*
 
 # WikiPedia
-DOMAIN-SUFFIX, wikipedia.org
-DOMAIN-SUFFIX, wikimedia.org
+DOMAIN-SUFFIX, wikipedia.org, force-remote-dns
+DOMAIN-SUFFIX, wikimedia.org, force-remote-dns
 
 # YouTube
-DOMAIN-KEYWORD, youtube
-DOMAIN-SUFFIX, youtu.be
-DOMAIN-SUFFIX, ytimg.com
-DOMAIN-SUFFIX, ggpht.com
+DOMAIN-KEYWORD, youtube, force-remote-dns
+DOMAIN-SUFFIX, youtu.be, force-remote-dns
+DOMAIN-SUFFIX, ytimg.com, force-remote-dns
+DOMAIN-SUFFIX, ggpht.com, force-remote-dns
 
 # telegraph
 DOMAIN-SUFFIX, telegra.ph
