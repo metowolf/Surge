@@ -45,6 +45,7 @@ DOMAIN-SUFFIX, jcloudcache.com
 DOMAIN-SUFFIX, joybuy.com
 DOMAIN-SUFFIX, jcloudcs.com
 DOMAIN-SUFFIX, jdcloud.com
+DOMAIN-SUFFIX, 300hu.com
 USER-AGENT, %E4%BA%AC%E4%B8%9C*
 USER-AGENT, JD4iPhone*
 
@@ -265,5 +266,12 @@ DOMAIN-SUFFIX, elemecdn.com
 # 高德
 DOMAIN-SUFFIX, amap.com
 DOMAIN-SUFFIX, autonavi.com
+
+# 携程
+DOMAIN-SUFFIX, ctrip.com
+DOMAIN-SUFFIX, ctripcorp.com
+DOMAIN-SUFFIX, c-ctrip.com
+DOMAIN-SUFFIX, trip.com
+DOMAIN-SUFFIX, tripcdn.com
 
 DOMAIN-SUFFIX, cn
