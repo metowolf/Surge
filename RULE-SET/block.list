@@ -1,3 +1,9 @@
+# archive
+DOMAIN-SUFFIX, archive.org
+
+# apkpure
+DOMAIN-SUFFIX, apkpure.com
+
 # BBC
 USER-AGENT, BBCiPlayer*
 DOMAIN-KEYWORD, uk-live
@@ -33,9 +39,10 @@ PROCESS-NAME, Dropbox
 DOMAIN-SUFFIX, dropbox.com
 DOMAIN-SUFFIX, dropboxusercontent.com
 DOMAIN-SUFFIX, dropboxstatic.com
+DOMAIN-SUFFIX, dropbox-dns.com
 
 # DuckDuckGo
-DOMAIN-SUFFIX, proxy.duckduckgo.com
+DOMAIN-SUFFIX, duckduckgo.com, force-remote-dns
 
 # Facebook
 DOMAIN-KEYWORD, facebook, force-remote-dns
