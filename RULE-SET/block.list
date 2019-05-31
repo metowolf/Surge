@@ -50,6 +50,9 @@ DOMAIN-SUFFIX, fb.com, force-remote-dns
 DOMAIN-SUFFIX, fb.me, force-remote-dns
 DOMAIN-SUFFIX, fbcdn.net, force-remote-dns
 
+# Flickr
+DOMAIN-SUFFIX, flickr.com, force-remote-dns
+
 # Github
 DOMAIN-SUFFIX, github.com
 DOMAIN-SUFFIX, githubusercontent.com
@@ -66,6 +69,9 @@ DOMAIN-SUFFIX, gvt1.com, force-remote-dns
 DOMAIN-SUFFIX, gvt2.com, force-remote-dns
 DOMAIN-SUFFIX, gvt3.com, force-remote-dns
 DOMAIN-SUFFIX, goo.gl, force-remote-dns
+
+# Heroku
+DOMAIN-SUFFIX, heroku.com
 
 # Imgur
 DOMAIN-SUFFIX, imgur.com
@@ -122,6 +128,11 @@ DOMAIN-SUFFIX, twimg.co, force-remote-dns
 DOMAIN-SUFFIX, twimg.com, force-remote-dns
 DOMAIN-SUFFIX, twitpic.com, force-remote-dns
 
+# Vimeo
+DOMAIN-SUFFIX, vimeo.com, force-remote-dns
+DOMAIN-SUFFIX, vimeocdn.com
+DOMAIN-SUFFIX, vimeo-hp-videos.global.ssl.fastly.net
+
 # WhatsApp
 DOMAIN-KEYWORD, whatsapp
 USER-AGENT, WhatsApp*
@@ -141,3 +152,4 @@ DOMAIN-SUFFIX, telegra.ph
 
 # twitch
 DOMAIN-SUFFIX, twitch.tv
+DOMAIN-SUFFIX, ttvnw.net
