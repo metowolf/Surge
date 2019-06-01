@@ -41,8 +41,10 @@ DOMAIN-SUFFIX, joybuy.com
 DOMAIN-SUFFIX, jcloudcs.com
 DOMAIN-SUFFIX, jdcloud.com
 DOMAIN-SUFFIX, 300hu.com
+DOMAIN-SUFFIX, jddebug.com
 USER-AGENT, %E4%BA%AC%E4%B8%9C*
 USER-AGENT, JD4iPhone*
+USER-AGENT, jdapp;*
 
 # 优酷
 DOMAIN-SUFFIX, youku.com
@@ -137,13 +139,17 @@ DOMAIN-SUFFIX, miaopai.com
 DOMAIN-SUFFIX, taobao.com
 DOMAIN-SUFFIX, tmall.com
 USER-AGENT, %E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
+USER-AGENT, TBIOS*
 
-# 爱奇异
+# 爱奇艺
 DOMAIN-SUFFIX, iqiyi.com
 DOMAIN-SUFFIX, iqiyipic.com
 DOMAIN-SUFFIX, qy.net
 DOMAIN-SUFFIX, ptqy.gitv.tv
 DOMAIN-SUFFIX, qiyi.com
+USER-AGENT, iQiYiPhoneVideo*
+USER-AGENT, QIYIVideo*
+USER-AGENT, QYPlayer*
 
 # 百度
 DOMAIN-SUFFIX, baidu.com
