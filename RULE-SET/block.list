@@ -79,6 +79,7 @@ DOMAIN-SUFFIX, imgur.com
 # Instagram
 DOMAIN-SUFFIX, instagram.com
 DOMAIN-SUFFIX, cdninstagram.com
+USER-AGENT, Instagram*
 
 # Line
 DOMAIN-SUFFIX, line.me, force-remote-dns
