@@ -1,6 +1,24 @@
+# BBC
+DOMAIN-SUFFIX, bbc.co.uk, force-remote-dns
+DOMAIN-SUFFIX, bbci.co.uk, force-remote-dns
+USER-AGENT, BBCiPlayer/*
+
 # HBO
 DOMAIN-SUFFIX, hbo.com
 DOMAIN-SUFFIX, hbogo.com
+USER-AGENT, HBO%20NOW/*
+
+# HULU
+DOMAIN-SUFFIX, hulu.com
+DOMAIN-SUFFIX, huluqa.com
+DOMAIN-SUFFIX, huluim.com
+DOMAIN-SUFFIX, hulustream.com
+USER-AGENT, Hulu/*
+
+# JOOX
+DOMAIN-SUFFIX, joox.com
+USER-AGENT, WeMusic/*
+USER-AGENT, JOOX/*
 
 # Netflix
 DOMAIN-SUFFIX, netflix.com
@@ -10,9 +28,16 @@ DOMAIN-SUFFIX, nflximg.com
 DOMAIN-SUFFIX, nflximg.net
 DOMAIN-SUFFIX, nflxso.net
 DOMAIN-SUFFIX, nflxvideo.net
+USER-AGENT, Argo/*
+
+# Pandora
+DOMAIN-SUFFIX, pandora.com
+DOMAIN-SUFFIX, p-cdn.com
+USER-AGENT, Pandora/*
 
 # Spotify
 DOMAIN-SUFFIX, spotify.com
 DOMAIN-SUFFIX, pscdn.co
 DOMAIN-SUFFIX, scdn.co
 DOMAIN-SUFFIX, spoti.fi
+USER-AGENT, Spotify/*
