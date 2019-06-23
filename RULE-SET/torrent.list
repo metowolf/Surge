@@ -23,6 +23,7 @@ PROCESS-NAME, p4pclient
 
 # Transmission
 PROCESS-NAME, Transmission
+USER-AGENT, Transmission/*
 
 # uTorrent
 PROCESS-NAME, uTorrent
