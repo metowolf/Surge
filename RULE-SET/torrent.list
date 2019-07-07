@@ -1,6 +1,6 @@
 # 迅雷
 PROCESS-NAME, Thunder
-PROCESS-NAME, com.xunlei.Thunder.DownloadService
+PROCESS-NAME, DownloadService
 
 # Web Torrent
 PROCESS-NAME, WebTorrent
