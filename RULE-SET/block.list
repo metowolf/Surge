@@ -73,6 +73,9 @@ DOMAIN-SUFFIX, goo.gl, force-remote-dns
 # Heroku
 DOMAIN-SUFFIX, heroku.com
 
+# ifixit
+DOMAIN-SUFFIX, ifixit.com
+
 # Imgur
 DOMAIN-SUFFIX, imgur.com
 
