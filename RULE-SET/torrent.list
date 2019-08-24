@@ -27,3 +27,6 @@ USER-AGENT, Transmission/*
 
 # uTorrent
 PROCESS-NAME, uTorrent
+
+# qBittorrent
+PROCESS-NAME, qbittorrent
