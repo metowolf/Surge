@@ -1,0 +1,6 @@
+#!name=云上贵州 iCloud 邮件修复
+#!desc=修复云上贵州 iCloud 邮件无法收发邮件的问题。
+
+[Host]
+*imap.mail.icloud.com.cn = imap.mail.icloud.com
+*smtp.mail.icloud.com.cn = smtp.mail.icloud.com
